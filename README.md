@@ -4,5 +4,5 @@
 - 🌱 I do enjoy talking about Cybersecurity
 - 👯 I’m looking to collaborate on exciting projects
 - 💬 Ask me about tech
-- 📫 How to reach me: <a href="https://praddyum.github.io/" target="__blank" rel="noopener noreferrer">https://praddyum.github.io/</a>
+- 📫 How to reach me: <a href="https://praddyum.github.io/" target="_blank" rel="noopener noreferrer">https://praddyum.github.io/</a>
 - ⚡ Fun fact: I'm a data engineer doing full stack work :)
